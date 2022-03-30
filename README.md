@@ -1,2 +1,2 @@
-# University of Utah Multi-User, Transradial Check Socket
-Part files and lists for creating a multi-user, transradial check socket for functional validation of new myoelectric control strategies.
+# University of Utah Multi-User, Transradial, Functional-Test Socket
+Part files and lists for creating a multi-user, transradial, functional-test socket for validation of new myoelectric control strategies.
